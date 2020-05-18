@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: Book Review: Deep Work by Cal Newport
 ---
 
 Against a never-ending cacophony of social media and a gluttony of online content, most people have become distracted and lacking in focus (you can count me in for this one). Deep Work by Cal Newport is an exploration into how some of the most productive people in the world maintain focus to complete their work to the highest standard.
